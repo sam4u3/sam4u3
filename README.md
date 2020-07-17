@@ -15,6 +15,7 @@
 <br />
 
 ### Glad to see you here! 🤩 
+![visitors](https://sam4u3-visitor-badge.glitch.me/badge?page_id=sam4u3)
 
 I'm software devloper working on Python Devloper 💻 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Automations and devops 🕸️ and working on Cloud technologies like aws 🤓.
 
