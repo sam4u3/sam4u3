@@ -28,16 +28,16 @@ I'm software devloper working on Python Devloper 💻 . I'm a passionate learner
 - 💬 Ask me about anything! I am happy to help and guide you.
 
 
-[![Sayar's github stats](https://github-readme-stats.vercel.app/api?username=sam4u3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sam4u3/github-readme-stats)
+[![Sayar's github stats](https://github-readme-stats.vercel.app/api?username=sam4u3&show_icons=true&theme=algolia)](https://github.com/sam4u3/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
 
 ⭐️ From [sam4u3](https://github.com/sam4u3)
 
 <a href="https://github.com/PyWizards/Selenium_Screenshot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PyWizards&repo=Selenium_Screenshot&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PyWizards&repo=Selenium_Screenshot&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/PyWizards/TextExtract">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PyWizards&repo=TextExtract&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PyWizards&repo=TextExtract&show_icons=true&theme=dracula" />
 </a>
 
