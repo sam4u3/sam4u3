@@ -19,13 +19,35 @@
 
 I'm software devloper working on Python Devloper 💻 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Automations and devops 🕸️ and working on Cloud technologies like aws 🤓.
 
-### More about me...
+### Technologies Worked on :
 
-- 🔭 I’m currently working on python, Aws and Devops tools ( Jenkins, git, docker, kubernetes and more)
-- 🌱 I’m currently learning DevOps 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Python/Cloud.
-- 💻 I have worked on .NET, Python, HTML/CSS, MySQL, MongoDB, Git, Docker, AWS etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
+ <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/docker.gif"  height="40" /> 
+  </a>
+  
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/k8s.gif"  height="40" />
+  </a>
+  
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/html-css-js.png" height="40" />
+  </a>
+    <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/aws.gif"  height="40" />
+  </a>
+  
+  <a href="https://console.cloud.google.com/" target="_blank" >
+      <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/gcp.gif"  height="40" />
+    </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" >
+     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/mongo.gif" height="40" />
+   </a>
+   
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/postgresql.gif" height="40" />
+<br/><br/>
+</a>
 
 
 [![Sayar's github stats](https://github-readme-stats.vercel.app/api?username=sam4u3&show_icons=true&theme=algolia)](https://github.com/sam4u3/github-readme-stats)
