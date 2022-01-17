@@ -53,7 +53,7 @@ I'm software devloper working on Python Devloper 💻 . I'm a passionate learner
 [![Sayar's github stats](https://github-readme-stats.vercel.app/api?username=sam4u3&show_icons=true&theme=algolia)](https://github.com/sam4u3/github-readme-stats)
 <br/>
 <br/>
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=sam4u3)](https://github.com/sam4u3/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=sam4u3&theme=algolia)](https://github.com/sam4u3/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
 
